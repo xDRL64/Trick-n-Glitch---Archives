@@ -10,6 +10,7 @@ Shadow = Shadow Temple
 Spirit = Spirit Temple
 BotW   = Bottom of the Well
 Ice    = Ice Cavern
+TH     = Thieves' Hideout
 GTG    = Gerudo Training Ground
 Trials = Ganon Castle
 GT     = Ganon Tower
