@@ -2,9 +2,9 @@
 
   - Child
 
-    Forest Escape (Sword + NaviCall)
+    Forest Escape [Navi Dive] (Sword + NaviCall)
 
-    Forest Escape (1DekuStick + NaviCall)
+    Forest Escape [Navi Dive] (1DekuStick + NaviCall)
 
 
   - Adult
