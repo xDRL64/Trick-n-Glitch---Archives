@@ -1,0 +1,5 @@
+save 0 : full trick (presetup + setup + trick)
+
+save 1 : from setup+trick only
+
+save 2 : free
