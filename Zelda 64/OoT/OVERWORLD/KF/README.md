@@ -3,7 +3,7 @@
 
   - Child
 
-    Forest Escape (Sword + DekuShield)
+    Forest Escape [Deku Tree Skip via Crouch Recoil] (Sword + DekuShield)
 
 
   - Adult
